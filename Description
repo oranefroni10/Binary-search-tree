@@ -1,0 +1,9 @@
+A program that implements the following operations in the C language:
+1. Adding a node to the tree.
+Each node has a counter that counts how many times the same key enters the tree.
+If a key that already appears in the tree enters, we will increase the counter in the relevant node by one.
+In such a case we will not add a node with the same key but only update the counter.
+2. Printing the data in postorder, recursively.
+3. Calculating and returning the height of the tree.
+4. Finding the member with the minimum key in the tree and displaying it.
+5. Searching for a member with a certain key in the tree.
